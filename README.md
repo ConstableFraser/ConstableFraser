@@ -7,7 +7,7 @@ Python Develop
 \# _Hello, guys :)_
 
 * 🌍  I'm based in Moscow, Russia
-* ✉️  You can contact me at [sanswed@gmail.com](mailto:sanswed@gmail.com)
+* ✉️  You can contact me at [sanswed@gmail.com](mailto:sanswed@gmail.com) or telegram: @sanswed
 * 🧠  I'm learning django framework
 
 ### Skills
