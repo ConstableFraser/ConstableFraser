@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Develop
 --------------
 
-\ _Hello, guys :)_
+ _Hello, guys :)_
 
-* 🌍  I'm based in Moscow, Russia
 * ✉️  You can contact me at [sanswed@gmail.com](mailto:sanswed@gmail.com) or telegram: @sanswed
-* 🧠  I'm learning django framework
+* 🧠  I'm learning python, flask, django framework
 
 ### Skills
 
