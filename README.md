@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developing. Java && Python
 ----------------------------------
 
- _Hello, guys :)_
+Hello, World!)
 
 * ✉️  You can contact me at [sanswed@gmail.com](mailto:sanswed@gmail.com) or telegram: @sanswed
 * 🧠  I'm learning python, flask, django framework
