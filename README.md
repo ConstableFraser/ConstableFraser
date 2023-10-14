@@ -7,7 +7,7 @@ Backend Developing. Java && Python
 Hello, World!)
 
 * ✉️  You can contact me at [sanswed@gmail.com](mailto:sanswed@gmail.com) or telegram: @sanswed
-* 🧠  I'm learning python, flask, django framework
+* 🧠  I'm learning JAVA (core java, spring framework), PYTHON (core python, flask, django framework)
 
 ### Skills
 
