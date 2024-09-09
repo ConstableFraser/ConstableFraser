@@ -1,6 +1,7 @@
 
 Hi ! My name is Alexander Shvedchikov
 =============================================================================================================================================
+<img src="panorama.jpg" width="960" height="480" alt="banner" />
 
 Backend Developing. Java && Python
 ----------------------------------
