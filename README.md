@@ -1,16 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander Shvedchikov
+
+Hi ! My name is Alexander Shvedchikov
 =============================================================================================================================================
 
 Backend Developing. Java && Python
 ----------------------------------
 
-Hello, World!)
-
 * ✉️  You can contact me at [sanswed@gmail.com](mailto:sanswed@gmail.com) or telegram: @sanswed
-* 🧠  I'm learning JAVA (core java, spring framework), PYTHON (core python, flask, django framework)
+* 🧠  I'm learning JAVA (core java, spring framework), PYTHON (core python, django framework, flask)
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
