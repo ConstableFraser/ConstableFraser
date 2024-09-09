@@ -1,13 +1,11 @@
 
-Hi ! My name is Alexander Shvedchikov
-=============================================================================================================================================
-<img src="panorama.jpg" width="960" height="480" alt="banner" />
-
 Backend Developing. Java && Python
 ----------------------------------
 
 * ✉️  You can contact me at [sanswed@gmail.com](mailto:sanswed@gmail.com) or telegram: @sanswed
 * 🧠  I'm learning JAVA (core java, spring framework), PYTHON (core python, django framework, flask)
+=============================================================================================================================================
+<img src="panorama.jpg" width="960" height="480" alt="banner" />
 
 ### Skills
 
