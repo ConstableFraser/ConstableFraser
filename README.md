@@ -1,5 +1,5 @@
 
-Backend Developing. Java && Python
+Backend Developing. Java
 ----------------------------------
 
 * ✉️  [sanswed@gmail.com](mailto:sanswed@gmail.com) or telegram: @sanswed
