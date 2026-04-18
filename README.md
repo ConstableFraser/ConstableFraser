@@ -9,11 +9,12 @@ Backend Developing (Java | Python)
 
 ### Skills
 
-<table><thead>
+<table>
+  <tbody>
   <tr>
-    <th colspan="7">J A V A</th>
-  </tr></thead>
-<tbody>
+    <td colspan="7">J A V A</td>
+  </tr>
+
   <tr>
     <td></td>
     <td></td>
