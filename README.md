@@ -26,7 +26,7 @@ Backend Developing (Java | Python)
     <td><a href="https://jte.gg/" target="_blank" rel="noreferrer"><img src="jte.svg" width="36" height="36" alt="jte" /></a></td>
     <td><a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"><img src="thymeleaf.png" width="36" height="36" alt="thymeleaf" /></a></td>
     <td><a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="mockito.png" width="68" height="68" alt="mockito unit test" /></a></td>
-    <td></td>
+    <td><a href="https://jacoco.org" target="_blank" rel="noreferrer"><img src="jacoco-logo.webp" width="68" height="68" alt="jacoco" /></a></td>
   </tr>
   <tr>
     <td colspan="11">P Y T H O N</td>
