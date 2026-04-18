@@ -1,14 +1,15 @@
 
-Backend Developing. Java
+Backend Developing (Java | Python)
 ----------------------------------
 
 * ✉️  [sanswed@gmail.com](mailto:sanswed@gmail.com) or telegram: @sanswed
-* 🧠 JAVA (core java, spring framework), PYTHON (core python, django framework, flask)
+* 🧠 JAVA (core java, spring boot), PYTHON (core python, django framework, flask)
 <hr>
 <img src="panorama.jpg" width="960" height="480" alt="banner" />
 
 ### Skills
 
+<span>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="36" height="36" alt="Spring Boot" /></a>
 <a href="https://javalin.io" target="_blank" rel="noreferrer"><img src="javalin.svg" width="36" height="36" alt="Javalin" /></a>
@@ -31,7 +32,7 @@ Backend Developing. Java
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://pytest.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" width="36" height="36" alt="pytest" /></a>
-
+</span>
 
 ### Socials
 
