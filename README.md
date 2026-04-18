@@ -70,7 +70,7 @@ Backend Developing (Java | Python)
     <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a></td>
     <td><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="36" height="36" alt="GitHub" /></a></td>
     <td><a href="https://jira.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="36" height="36" alt="Jira Atlassian" /></a></td>
-    <td></td>
+    <td><a href="https://gradle.org" target="_blank" rel="noreferrer"><img src="gradle_logo.png" width="55" height="55" alt="Gradle" /></a></td>
     <td></td>
     <td></td>
     <td></td>
