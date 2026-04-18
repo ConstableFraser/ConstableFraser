@@ -25,7 +25,7 @@ Backend Developing (Java | Python)
     <td><a href="https://jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="36" height="36" alt="IntellijIdea" /></a></td>
     <td><a href="https://jte.gg/" target="_blank" rel="noreferrer"><img src="jte.svg" width="36" height="36" alt="jte" /></a></td>
     <td><a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"><img src="thymeleaf.png" width="36" height="36" alt="thymeleaf" /></a></td>
-    <td><a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="mockito.png" width="55" height="55" alt="mockito unit test" /></a></td>
+    <td><a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="mockito.png" width="68" height="68" alt="mockito unit test" /></a></td>
     <td></td>
   </tr>
   <tr>
