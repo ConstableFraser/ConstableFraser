@@ -52,7 +52,7 @@ Backend Developing (Java | Python)
     <td><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a></td>
     <td><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a></td>
     <td><a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"><img src="thymeleaf.png" width="36" height="36" alt="thymeleaf" /></a></td>
-    <td><a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="JavaScript.png" width="64" height="64" alt="jsoup" /></a></td>
+    <td><a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="JavaScript.png" width="64" height="64" alt="java script" /></a></td>
     <td></td>
     <td></td>
     <td></td>
